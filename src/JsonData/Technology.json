@@ -1,0 +1,21 @@
+[
+  {
+    "id":1,
+    "Title":"The Sekyo Turbo is a pretty bold-looking smartwatch which will immediately capture the attention of children.",
+    "Link":"https://images.indianexpress.com/2023/02/sekyo-turbo-4g-review.jpg",
+    "Discription":"As your children grow and step out into the world, parents are always trying to find ways to keep them secure. The new Sekyo Turbo smartwatch is intended to do just this and ensure you know where your children are and give you a communication channel with them when needed, even without handing them a smartphone.The Sekyo Turbo is a pretty bold-looking smartwatch which will immediately capture the attention of children. But it is also a bit bulky and comes with a soft plastic strap. There is a home button on the right that helps you navigate and a sim slot on the left. The watch face itself can be opened towards you like a flap to reveal the charging port where the magnetic charger can be yoked."
+  },
+  {
+    "id":2,
+    "Title":"13th Gen Core Processor to feature in over 350 laptops slated for 2023 launch, says Intel India’s Akshay Kamath.",
+    "Link":"https://images.indianexpress.com/2023/02/13th-gen-intel-core-processor.jpg",
+    "Discription":"Intel recently announced its 13th Gen Core series of mobile processors with a higher E-core count to deliver better multi-threaded performance and improved clock speed for P-cores to deliver optimum gaming performance. In an attempt to understand more about these processors, The Indian Express sent out queries to Intel India regarding their latest offerings.Here are the responses that we received from Akshay Kamath, Director PC Client Sales – Intel India over mail regarding the launch of the 13th Gen Intel Core processors and how they fare against the competition."
+  },
+  {
+    "id":3,
+    "Title":"MeitY may soon integrate ChatGPT with WhatsApp for key government schemes.",
+    "Link":"https://images.indianexpress.com/2023/02/chatgpt-featured3-1.jpg",
+    "Discription":"Even as the battle between Google and Microsoft over the future of Internet search intensifies, WhatsApp could soon become a major search engine on key government schemes for India’s estimated 150 million farmers – powered by the hugely sensational AI chatbot ChatGPT and an ambitious national-level program that aims to build vast datasets containing samples of Indian voices in several local languages, through a crowdsourcing model."
+  }
+  
+]

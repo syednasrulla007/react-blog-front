@@ -1,0 +1,39 @@
+.rotate-text {
+  /* background-color: #282c34; */
+  color:black;
+  transform: rotate(-90deg);
+  display: inline-block;
+}
+
+.Shiren-text {
+  background-color: none;
+  color: #282c34;
+  display: inline-block;
+  font-weight: 900;
+}
+
+.div-head-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.Hamburger{
+  position: absolute;
+  top: 37px;
+  right: 10px;
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 21px;
+}
+
+.bar{
+  height: 3px;
+  width: 100%;
+  background-color: black;
+  border-radius: 10px;
+}
+

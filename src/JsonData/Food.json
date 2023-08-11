@@ -1,0 +1,21 @@
+[
+    {
+      "id":1,
+      "Title":"Sushi (Japan)",
+      "Link":"https://www.holidify.com/images/cmsuploads/compressed/c700x420_20181227132950.jpg",
+      "Discription":"Prepared with vinegared rice and a wide range of ingredients including seafood, vegetables, and sometimes fruits. Sushi tastes best when served with wasabi, pickled ginger, and soy sauce. A popular garnish for this dish is Daikon radish. The type of fish in it defines a sushis taste. However, the vinegared rice gives the dish a tangy taste overall. Tuna, eel, and Salmon tend to have a light flavour while octopus flavoured sushi is generally strong in taste"
+    },
+    {
+      "id":2,
+      "Title":"Ramen (Japan) ",
+      "Link":"https://www.holidify.com/images/cmsuploads/compressed/shoyu-ramen_20181227133143.jpg",
+      "Discription":"If not tried, you must have heard of Ramen at least once in your life. However, we are not talking about the packaged instant noodles. Ramen is a Japanese dish made of wheat noodles and served in the broth along with vegetables and meat. Ramen comes in several flavours, from tangy to spicy, depending on the flavour of the broth. Every region in Japan has it's own. Tonkotsu, a popular style of ramen includes pork bone broth and the miso ramen, another popular dish originated in Hokkaido"
+    },
+    {
+      "id":3,
+      "Title":"Kebab (Turkey)",
+      "Link":"https://www.holidify.com/images/cmsuploads/compressed/bacon-kebabs-13-2_20181227133457.jpg",
+      "Discription": "A dish popular across the Middle East, Kebabs are originally from Turkey. They consist of ground meat or seafood, fruits, and vegetables in some cases and are cooked on a skewer with a big fire underneath, just like a barbeque on the grill. It is cooked with various accompanying ingredients including garlic, black pepper, and vegetable oil. Mutton or lambs are generally the traditional meats used in kebabs. Other recipes include beef, goat, fish, and chicken as well. This dish has a perfect blend of taste, ranging from tangy to spicy, making it one of the best dishes in the world."
+    }
+    
+  ]

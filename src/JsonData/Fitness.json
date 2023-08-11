@@ -1,0 +1,21 @@
+[
+    {
+      "id":1,
+      "Title":"GYM",
+      "Link":"https://www.pulse8gym.com/wp-content/uploads/2021/02/muscles-boy.png",
+      "Discription":"A gymnasium, also known as a gym, is an indoor location for athletics. The word is derived from the ancient Greek term gymnasium.[1] They are commonly found in athletic and fitness centers, and as activity and learning spaces in educational institutions. Gym is also slang for fitness centre, which is often an area for indoor recreation. A gym may include or describe adjacent open air areas as well. In Western countries, gyms (or pl: gymnasia) often describe places with indoor or outdoor courts for basketball, hockey, tennis, boxing or wrestling, and with equipment and machines used for physical development training, or to do exercises. In many European countries, Gymnasium (and variations of the word) also can describe a secondary school that prepares students for higher education at a university, with or without the presence of athletic courts, fields, or equipment."
+    },
+    {
+      "id":2,
+      "Title":"YOGA",
+      "Link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9MJYSLmTZmMd626GD_nG3tzSGVqnkzXh2eQ&usqp=CAU",
+      "Discription": "Yoga-like practices are first mentioned in the Rigveda.[9] Yoga is referred to in a number of the Upanishads.[10][11][12] The first known appearance of the word yoga with the same meaning as the modern term is in the Katha Upanishad,[13][14] which was probably composed between the fifth and third centuries BCE.[15][16] Yoga continued to develop as a systematic study and practice during the fifth and sixth centuries BCE in ancient India's ascetic and Śramaṇa movements.[17] The most comprehensive text on Yoga, the Yoga Sutras of Patanjali, date to the early centuries of the Common Era;[18][19][note 1] Yoga philosophy became known as one of the six orthodox philosophical schools (Darśanas) of Hinduism in the second half of the first millennium CE.[20][web 1] Hatha yoga texts began to emerge between the ninth and 11th centuries, originating in tantra"
+    },
+    {
+      "id":3,
+      "Title":"Meditation",
+      "Link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjwvT1eQSqznM3HqV2XwaM4sD93XLG-A1-lw&usqp=CAU",
+      "Discription":"MEadition is a practice in which an indual uses a technique such as mindfull, or focussing the mind on  a perticular objective,thougth , or activity to train attention and awarness , and achieve a mental clear and emotionally calm and stable  state"
+    }
+    
+  ]

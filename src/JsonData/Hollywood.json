@@ -1,0 +1,38 @@
+[
+  {
+    "id":1,
+    "Title":"Inception",
+    "Link":"https://gumlet.assettype.com/film-companion/import/wp-content/uploads/2020/07/Inception_Lead_4-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+    "Production_comp" : "Dharma Productions ,Star Studios,Prime Focus, Starlight Pictures",
+    "Distributor" : "syncopy's productions",
+    "WorldWideGross": "$718,732,821",
+    "Discription":" Inception is a 2010 science friction movie written and directed by Christopher Nolan The film stars Leonardo DiCaprio as a professional thief who steals information by infiltrating the subconscious of his targets. He is offered a chance to have his criminal history erased as payment for the implantation of another person's idea into a target's subconscious.[7] The ensemble cast includes Ken Watanabe, Joseph Gordon-Levitt, Marion Cotillard, Elliot Page,[a] Tom Hardy, Dileep Rao, Cillian Murphy, Tom Berenger, and Michael Caine."
+  },
+  {
+    "id":2,
+    "Title":"Avengers",
+    "Link":"https://media1.popsugar-assets.com/files/thumbor/0vXx8ApJO0v1KfcMWyGAnMmc82M/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2019/03/25/801/n/1922283/891e0fb65c991a8ee70236.09504101_.jpg",
+    "Production_comp" : "MARVELS",
+    "Distributor" : "Walt Disney",
+    "WorldWideGross": "$828,792,535",
+    "Discription":"Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the direct sequel to Avengers: Infinity War (2018) and the 22nd film in the Marvel Cinematic Universe (MCU). Directed by Anthony and Joe Russo and written by Christopher Markus and Stephen McFeely.The film was announced in October 2014 as Avengers: Infinity War – Part 2, but Marvel later removed this title. The Russo brothers joined as directors in April 2015, with Markus and McFeely signing on to write the script a month later. The film serves as a conclusion to the story of the MCU up to that point, ending the story arcs for several main characters.Avengers: Endgame premiered in Los Angeles on April 22, 2019, and was released in the United States on April 26, as part of Phase Three of the MCU. The film received praise for its direction, acting, musical score, action sequences, visual effects, and emotional weight, with critics lauding its culmination of the 22-film story. The film grossed $2.798 billion worldwide, surpassing Infinity War's entire theatrical run in just eleven days and breaking numerous box office records, including becoming the highest-grossing film of all time from July 2019 until March 2021."
+  },
+  {
+    "id":3,
+    "Title":"Avatar: The Way of Water",
+    "Link":"https://www.the-numbers.com/images/movies/opusdata/Avatar-The-Way-of-Water-(2022).jpg",
+    "Production_comp" : "20th Century Studios",
+    "Distributor" : "20th Century Studios",
+    "WorldWideGross": "$425,527,069",
+    "Discription":"Avatar: The Way of Water is a 2022 American epic science fiction film directed and produced by James Cameron. He co-wrote the screenplay with Rick Jaffa and Amanda Silver from a story the trio wrote with Josh Friedman and Shane Salerno. Distributed by 20th Century Studios, it is the sequel to Avatar (2009) and the second installment in the Avatar film series. Cast members Sam Worthington, Zoe Saldaña, Stephen Lang, Joel David Moore, CCH Pounder, Giovanni Ribisi, Dileep Rao, and Matt Gerald reprise their roles from the original film, with Sigourney Weaver returning in an additional role.[6] New cast members include Kate Winslet, Cliff Curtis, Edie Falco, and Jemaine Clement. In the film, Na'vi Jake Sully (Worthington) and his family, under renewed human threat, seek refuge with the Metkayina clan of Pandora."
+  },
+  {
+    "id":4,
+    "Title":"Doctor Strange in the Multiverse of Madness",
+    "Link":"https://www.the-numbers.com/images/movies/opusdata/Doctor-Strange-in-the-Multiverse-of-Madness-(2022).jpg",
+    "Production_comp" : "Walt Disney",
+    "Distributor" : "Walt Disney",
+    "WorldWideGross": "$952,224,986",
+    "Discription":"Doctor Strange in the Multiverse of Madness is a 2022 American superhero film based on Marvel Comics featuring the character Doctor Strange. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Doctor Strange (2016) and the 28th film in the Marvel Cinematic Universe (MCU). The film was directed by Sam Raimi, written by Michael Waldron, and stars Benedict Cumberbatch as Stephen Strange, alongside Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong, Xochitl Gomez, Michael Stuhlbarg, and Rachel McAdams. In the film, Strange protects America Chavez (Gomez), a teenager capable of traveling the multiverse, from Wanda Maximoff (Olsen)."
+  }
+]

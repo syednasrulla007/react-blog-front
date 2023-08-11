@@ -1,0 +1,19 @@
+.footer{
+   background-image: linear-gradient(
+    to right,
+    blue,
+    yellow
+   );
+    bottom: 0px;
+    color: #fafafa;
+    font-size: larger;
+    height: 25px;
+    justify-content: center;
+
+    position: relative;
+    width: 100%;
+}
+
+p{
+    text-align: center;
+}
